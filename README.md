@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidAck2006
 - 👀 I’m interested in fullstack development 
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on websites
 - 📫 reach me using my email: david.ackerman2006@gmail.com
 
